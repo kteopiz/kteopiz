@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/f4/d9/97/f4d997af718c1c9b6f3d672b3117f7ce.gif))](https://github.com/kteopiz)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/f4/d9/97/f4d997af718c1c9b6f3d672b3117f7ce.gif))]
 <h1 align="center">Hi 👋, I'm Kyle Teopiz</h1>
 <h3 align="center">A Second Year CS Student at TMU and Incoming Web Developer Associate Intern at Civiconnect</h3>
 
