@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Teopiz</h1>
-<h3 align="center">A Second Year CS Student at TMU and Incoming Web Developer Associate Intern at Civiconnect</h3>
+<h3 align="center">A Second Year CS Student at TMU and Currently a Web Developer Associate Intern at Civiconnect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kteopiz&label=Profile%20views&color=0e75b6&style=flat" alt="kteopiz" /> </p>
 
