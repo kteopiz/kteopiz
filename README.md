@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Teopiz</h1>
-<h3 align="center">A Second Year CS Student at TMU and Currently a Web Developer Associate Intern at Civiconnect</h3>
+<h3 align="center">A 3rd/4th Year CS Student at TMU and Currently a SWE Intern at Environment Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kteopiz&label=Profile%20views&color=0e75b6&style=flat" alt="kteopiz" /> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **ReactJS, React Native, and NodeJS**
 
 - 📫 How to reach me **kylecteopiz@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1b4CEZf4yOOOD7k55L2zaHdUIYz46DnGw/edit?usp=sharing&ouid=103484475136135448903&rtpof=true&sd=true](https://docs.google.com/document/d/1b4CEZf4yOOOD7k55L2zaHdUIYz46DnGw/edit?usp=sharing&ouid=103484475136135448903&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
