@@ -1,6 +1,6 @@
 # Kyle Teopiz
 
-Computer Science student and software engineer interested in backend development, platform engineering, and building reliable systems.
+Computer Science student and software engineer interested in expanding skillset beyond web dev.
 
 4/5th Year CS Student @ TMU | ~2 y/o SWE Intern exp. | Grad in 2027 
 
