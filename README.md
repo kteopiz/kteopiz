@@ -9,7 +9,7 @@ Computer Science student and software engineer interested in expanding skillset 
 ## Currently
 
 - SWE Intern @ ECCC doing FE on [weather.gc.ca](https://weather.gc.ca) 
-- Un-pigeonholing out of FE learning Go and AI tooling via. projects
+- Un-pigeonholing out of FE learning Go for backend learning and AI tooling via. projects
 - Prepping for New Grad -.-
 
 ## Projects
