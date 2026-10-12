@@ -14,5 +14,5 @@ Computer Science student and software engineer interested in expanding skillset 
 
 ## Projects
 
-- Stock Tracker: lightweight Go TUI for tracking and comparing portfolios 
 - Personal Site: long over due
+- TBD
