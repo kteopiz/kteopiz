@@ -4,7 +4,7 @@ Computer Science student and software engineer interested in expanding skillset 
 
 4/5th Year CS Student @ TMU | ~2 y/o SWE Intern exp. | Grad in 2027 
 - prev. SWE Intern @ ECCC doing FE on [weather.gc.ca](https://weather.gc.ca)
-- prev. SWE Intern @ Civiconnect doing work on NurseRecruit
+- prev. SWE Intern @ Civiconnect doing FE on NurseRecruit
   
 [LinkedIn](https://www.linkedin.com/in/kyleteopiz/) · [GitHub](https://github.com/kteopiz) · [Email](mailto:kylecteopiz@gmail.com)
 
